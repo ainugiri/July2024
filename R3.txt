@@ -3,3 +3,4 @@ commit
 commit
 commit
 commit
+new file:   Resources/t1.txt

@@ -1,3 +1,16 @@
+new file:   Resources/t1.txt       
+
+new file:   Resources/t1.txt
+
+new file:   Resources/t1.txt
+
+new file:   Resources/t1.txt
+
+new file:   Resources/t1.txt
+
+new file:   Resources/t1.txt
+
+new file:   Resources/t1.txt
 newline
 newline
 newline
