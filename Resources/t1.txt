@@ -1,0 +1,4 @@
+"git add <file>..." to include in what will be committed)
+        R4.txt.txt
+
+nothing added to commit
